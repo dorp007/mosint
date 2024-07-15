@@ -8,3 +8,4 @@ beautifulsoup4==4.9.3
 PyPDF2==1.26.0
 tabula==1.0.5
 verify_email==2.4.3
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
